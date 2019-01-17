@@ -25,9 +25,9 @@ gulp.task('browserSync', function() {
  
     //initialize browsersync
     browserSync.init(files, {
-    //browsersync with a php server
-    proxy: "altodavila.dev.dev",
-    notify: false
+      //browsersync with a php server
+      proxy: "localhost:8000",
+      notify: false
     });
 });
 

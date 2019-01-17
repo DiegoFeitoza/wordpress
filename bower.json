@@ -1,7 +1,7 @@
 {
-  "name": "cartello",
+  "name": "diego-theme",
   "authors": [
-    "Jonathan <jonathan@cartello.com.br>"
+    "Diego <diegofeitoza.dev@gmail.com>"
   ],
   "description": "",
   "main": "",
@@ -15,8 +15,9 @@
     "libs"
   ],
   "dependencies": {
-    "bootstrap-sass": "^3.3.7",
-    "bourbon": "^4.2.7",
-    "mdi": "^1.7.22"
+    "bootstrap-sass": "*",
+    "bourbon": "*",
+    "mdi": "*",
+    "jquery": "*"
   }
 }
